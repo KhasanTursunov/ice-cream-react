@@ -21,7 +21,7 @@ const Showcase = () => {
                 that the dog's brought home, yet after one mouthful I've been
                 left eating my thoughts, my words.
               </p>
-              <button className="heared-btn className='font-roboto' w-[165px] h-[49px] rounded-[5px] font-hind-madurai text-base font-bold leading-[22.08px] bg-[#D23166] text-white">
+              <button className="heared-btn className='font-roboto' w-40 h-12 rounded-md font-bold font-hind-madurai text-base leading-6 bg-[#D23166] text-white border-2 border-transparent hover:bg-white hover:text-[#D23166] hover:border-[#D23166] transition-all duration-500 ease-in-out">
                 Buy Now
               </button>
             </div>
